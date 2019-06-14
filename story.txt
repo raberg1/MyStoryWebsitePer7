@@ -1,0 +1,3 @@
+This is my CP1 Story
+We are using this to learn github
+Woot Woot!!!!
